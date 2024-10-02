@@ -1,4 +1,6 @@
 # Wikipedia Summarizer
-Wikipedia Summarizer built in React + Vite
+AI Wikipedia Summarizer built in React + Vite
+
+https://wikipediasummary.org
 
 Enjoy :)
