@@ -140,14 +140,14 @@ function App() {
         <Messages ref={msgs} />
 
         {/* Navbar Card */}
-        <Card title="🤖 gen-z wikipedia" className='center-items navbar-style'>
+        <Card title="🧠 wikipedia to brainrot" className='center-items navbar-style'>
         </Card>
 
         {/* Heading */}
         <div className='center-items'>
           <div className='sub-heading-style'>
             <span className='bold-heading-font'>wikipedia, </span>
-            <span>except it talks like gen-z </span>
+            <span>but make it brainrot </span>
           </div>
         </div>
 
